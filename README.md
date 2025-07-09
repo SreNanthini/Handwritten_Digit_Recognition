@@ -21,6 +21,7 @@ This is a machine learning project where I built a **Convolutional Neural Networ
 | `digit_model_v1.keras` | Trained CNN model (saved format) |
 | `digrecog(1).ipynb` | Jupyter notebook for training the model |
 | `README.md` | This file |
+| `output` | Sample screenshots|
 
 ---
 
